@@ -193,6 +193,8 @@ def underwater(request):
         'sensors': sensors,
     }
 
+    print(f"修改一")
+
     return render(request, 'html/dash-UnderwaterSystem.html', context)
 
 '''
