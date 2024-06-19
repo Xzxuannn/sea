@@ -1,4 +1,4 @@
 from django.test import TestCase
 
 # Create your tests here.
-print(f"修改二")
+print(f"修改2")
